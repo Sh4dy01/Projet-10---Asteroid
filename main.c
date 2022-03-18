@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include "playground.h"
 
-void main(int argc, char* argv[]){
-
-
+void main(){
+    initTab();
+    printGame();
 }
